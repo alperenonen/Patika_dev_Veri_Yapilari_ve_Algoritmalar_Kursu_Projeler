@@ -1,8 +1,6 @@
 # Selection Sort Projesi
 
-## [22,27,16,2,18,6] -> Insertion Sort
-
-## Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+## [22,27,16,2,18,6] ---> Insertion Sort ---> Verilen dizinin sort türüne göre aşamalarını yazınız.
 
 1. İlk aşama: [2,27,16,22,18,6]
 
@@ -30,11 +28,7 @@
 
 ---
 
-## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-
-## Average case: Aradığımız sayının ortada olması
-## Worst case: Aradığımız sayının sonda olması
-## Best case: Aradığımız sayının dizinin en başında olması.
+## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız ---> Average case: Aradığımız sayının ortada olması. Worst case: Aradığımız sayının sonda olması. Best case: Aradığımız sayının dizinin en başında olması.
 
 1. Dizi sıralandıktan sonra son durumu şöyledir: [2,6,16,18,22,27]. "18" elemanı dizide ortada bulunduğu için "18" elemanı "average case" kapsamına girer.
 
